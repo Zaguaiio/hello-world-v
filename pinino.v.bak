@@ -1,0 +1,11 @@
+module moduleName (
+    input iA;
+    input iB;
+    output oC;
+);
+
+always @(*) begin
+    oC = iA | iB;
+end
+    
+endmodule

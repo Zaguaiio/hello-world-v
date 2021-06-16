@@ -1,0 +1,9 @@
+|pinino
+iA => rResult.IN0
+iB => rResult.IN1
+oC <= rResult.DB_MAX_OUTPUT_PORT_TYPE
+iD => rResult.IN0
+iE => rResult.IN1
+oF <= <GND>
+
+
